@@ -1,0 +1,68 @@
+{
+  "userSays": [
+    {
+      "id": "687b51af-0ce4-4e04-81c2-826edd8369fa",
+      "data": [
+        {
+          "text": "파"
+        },
+        {
+          "text": "이",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "팅!"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "185a2216-29c0-4eec-a9aa-6dd7659ff971",
+      "data": [
+        {
+          "text": "힘내자"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "53fd4441-6d1e-4372-950b-47d7cb3f9c6f",
+      "data": [
+        {
+          "text": "힘"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0bb13663-5b22-4134-aa9d-a08ce880a06d",
+  "name": "힘/힘내자/파이팅!",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "아자아자!",
+            "파이팅!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

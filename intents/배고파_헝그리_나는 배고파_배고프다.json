@@ -1,0 +1,71 @@
+{
+  "userSays": [
+    {
+      "id": "0992310c-ac3c-418b-ba09-a7e051f3a8ea",
+      "data": [
+        {
+          "text": "배고프다"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66f15bf9-0ae5-406e-81a0-86b22b62687b",
+      "data": [
+        {
+          "text": "나는 배고파"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c44f5ec-ed25-4386-87b6-fb56ed0985cd",
+      "data": [
+        {
+          "text": "헝그리"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f165a95b-55a0-40be-96a8-0785694d7967",
+      "data": [
+        {
+          "text": "배고파"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "92697391-2632-4a7e-88ad-fcf135ca24b0",
+  "name": "배고파/헝그리/나는 배고파/배고프다",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "저는 컴퓨터라 안배고파요 우히히",
+            "ㅠㅠ 슬프겠다... ;(",
+            ""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

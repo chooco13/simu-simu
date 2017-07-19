@@ -1,0 +1,60 @@
+{
+  "userSays": [
+    {
+      "id": "8e600722-e6a8-4571-bc3d-fae2b201c9a7",
+      "data": [
+        {
+          "text": "심심해요"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7436028d-f8ee-4268-8e76-b38db3884ca7",
+      "data": [
+        {
+          "text": "심심해"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "113f38ea-5120-47f4-a3dc-32b3dcfded7d",
+      "data": [
+        {
+          "text": "심심"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ed9b1ff3-35ee-4674-bead-af72ec731838",
+  "name": "심심/심심해/심심해요",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "후후... 나도!",
+            "나랑 볼자 :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

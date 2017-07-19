@@ -1,0 +1,84 @@
+{
+  "userSays": [
+    {
+      "id": "93e4ab09-fdf1-4921-96af-ba4bc26aa772",
+      "data": [
+        {
+          "text": "하하"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b916a1ea-bac9-48e3-820b-12482f685e29",
+      "data": [
+        {
+          "text": "후후"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "731ff745-a7d8-4603-ab53-cd4354023553",
+      "data": [
+        {
+          "text": "헤헤"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f0e20d0-3342-4d52-a9e8-d8b9a0eca5a0",
+      "data": [
+        {
+          "text": "ㅎㅎㅎ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4abfaa4-c19a-4382-b109-1421fd248e6a",
+      "data": [
+        {
+          "text": "ㅋㅋㅋ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "81933ac9-12da-4ff2-a012-c28bda12c75d",
+  "name": "ㅋㅋㅋ/ㅎㅎㅎ/헤헤/후후/하하",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "ㅋㅋㅋㅋㅋ",
+            "뭘 웃어!",
+            "왜 웃냐!",
+            "바보",
+            "ㅎㅎㅎ",
+            "후후후"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "userSays": [
+    {
+      "id": "ca24e5eb-15c6-47d7-b0f8-301248f518e3",
+      "data": [
+        {
+          "text": "어렵다"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "793bcf12-cade-4770-9a33-2c097ffe46ba",
+  "name": "어렵다",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "ㅠㅠ 힘내요",
+            "저도 너무 어렵네요 ㅠㅠ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

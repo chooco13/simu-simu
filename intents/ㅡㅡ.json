@@ -1,0 +1,40 @@
+{
+  "userSays": [
+    {
+      "id": "66b51bdd-f078-4247-a565-c5b66da0b2e3",
+      "data": [
+        {
+          "text": "ㅡㅡ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0f53b972-85f0-423e-9bcd-53b526a58d35",
+  "name": "ㅡㅡ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "어쩔",
+            "ㅡㅡ;;"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

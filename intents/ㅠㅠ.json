@@ -1,0 +1,41 @@
+{
+  "userSays": [
+    {
+      "id": "cb6fb127-33b4-42f4-a101-75cc09df1074",
+      "data": [
+        {
+          "text": "ㅠㅠ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f2572779-b732-4731-b39f-ff03b0019482",
+  "name": "ㅠㅠ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "왜 울어요 ㅠㅠ",
+            "울지 말아요 ㅠㅠ",
+            "뚝!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

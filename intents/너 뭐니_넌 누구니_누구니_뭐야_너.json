@@ -1,0 +1,97 @@
+{
+  "userSays": [
+    {
+      "id": "678285fa-aa83-418b-b5f8-dfc123d1e281",
+      "data": [
+        {
+          "text": "너"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e9ce112-74af-46dc-9b1c-c3fedd0eb122",
+      "data": [
+        {
+          "text": "뭐야"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "990b0dd2-505b-495b-a113-da00daeab6aa",
+      "data": [
+        {
+          "text": "누"
+        },
+        {
+          "text": "구",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "니"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90590406-1e09-493d-8efd-592cfb02d9d5",
+      "data": [
+        {
+          "text": "넌 누"
+        },
+        {
+          "text": "구",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "니"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "817a79b3-edd6-4004-be29-4f8503707573",
+      "data": [
+        {
+          "text": "너 뭐니"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a69962a4-42b2-4d10-b15c-8bac3b7a02a9",
+  "name": "너 뭐니/넌 누구니/누구니/뭐야/너",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "저는 저에요",
+            "안알려주~죠~~ ㅋㅋ",
+            "비밀이에요"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

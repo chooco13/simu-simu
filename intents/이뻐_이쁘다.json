@@ -1,0 +1,61 @@
+{
+  "userSays": [
+    {
+      "id": "ce4441ec-e8a1-4342-b25a-d4d78df3389f",
+      "data": [
+        {
+          "text": "이",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "쁘다"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "323871e2-839c-47b2-81a4-e9d1c577dcef",
+      "data": [
+        {
+          "text": "이",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "뻐"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "54b965b9-e307-4729-ae9a-e63408d8a795",
+  "name": "이뻐/이쁘다",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "너가 더 이뻐 꺄륵",
+            "후후 좀 이뻐~",
+            "흐헤헿ㅎ헿ㅎ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

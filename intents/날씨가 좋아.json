@@ -1,0 +1,37 @@
+{
+  "userSays": [
+    {
+      "id": "569dbe37-5d08-4164-8735-b4ad9061efb1",
+      "data": [
+        {
+          "text": "날씨가 좋아"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "bc72146f-53ec-4dea-bfc0-bae2e2ead7ed",
+  "name": "날씨가 좋아",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "거기는 날씨가 좋은가요? 저는 컴퓨터 안이라 모르겠는데..."
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

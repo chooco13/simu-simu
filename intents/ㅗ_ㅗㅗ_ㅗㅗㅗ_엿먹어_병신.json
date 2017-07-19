@@ -1,0 +1,82 @@
+{
+  "userSays": [
+    {
+      "id": "45fe334a-c2e3-4f44-83ea-6d0342921bcf",
+      "data": [
+        {
+          "text": "병신"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43ebd624-43ab-4336-ad56-4104a02d2fcf",
+      "data": [
+        {
+          "text": "ㅗㅗㅗ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ceff5980-82a1-40fc-b4ae-33a132da8ab9",
+      "data": [
+        {
+          "text": "ㅗ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3059cf5f-856d-41be-84f3-c933dc7f1116",
+      "data": [
+        {
+          "text": "엿먹어"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb148a50-fd44-4563-a6d6-e7b39b97ae15",
+      "data": [
+        {
+          "text": "ㅗㅗ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7c4ac736-f87e-44fa-b0ba-93274edeccf1",
+  "name": "ㅗ/ㅗㅗ/ㅗㅗㅗ/엿먹어/병신",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "무지개 반사! ㅋㅋ :p",
+            "저 엿 좋아해요! ㅋㅋ",
+            "뭐하냐 ㅡㅡ",
+            "인터넷이라고 너무 막말하는거 아니에요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

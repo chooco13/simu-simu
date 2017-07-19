@@ -1,0 +1,45 @@
+{
+  "userSays": [
+    {
+      "id": "a278d8b1-2fad-485a-8735-70316f379159",
+      "data": [
+        {
+          "text": "공",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "부해"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "90575842-ffad-4bc0-9385-8b5a6e4750cc",
+  "name": "공부해",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "시렁! 공부하기",
+            "엄마인줄...ㄷ..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,63 @@
+{
+  "userSays": [
+    {
+      "id": "6998c149-3fee-4623-a577-10cc151c71c8",
+      "data": [
+        {
+          "text": "이름이 시무시무니?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dbb22dd6-26e7-473a-8b96-754aa57dd90c",
+      "data": [
+        {
+          "text": "시",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "무"
+        },
+        {
+          "text": "시",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "무"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "30a4c64d-eb78-48bf-93aa-85a715c0141d",
+  "name": "시무시무/이름이 시무시무니?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "시무시무",
+            "제 이름이 시무시무에요"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

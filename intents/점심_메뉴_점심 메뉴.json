@@ -1,0 +1,60 @@
+{
+  "userSays": [
+    {
+      "id": "0c013787-b39d-40ef-b61b-67e9bee6c5bb",
+      "data": [
+        {
+          "text": "메뉴"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4eb80d2-3731-4d6f-bb6f-9e93f94e0aa2",
+      "data": [
+        {
+          "text": "점심 메뉴"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "386382ef-9d25-43a5-810f-c6e4f99aa725",
+      "data": [
+        {
+          "text": "점심"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8777c14f-951a-4afa-b855-4ba337bd7d6e",
+  "name": "점심/메뉴/점심 메뉴",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "그걸 왜 저한테 물어보세요 ㅠㅠ",
+            "전 봇이라 그런거 몰라요"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

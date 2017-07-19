@@ -1,0 +1,40 @@
+{
+  "userSays": [
+    {
+      "id": "652e0cfa-9a63-4482-b513-5f7114771ab1",
+      "data": [
+        {
+          "text": "이자식"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "4d0de718-9231-429b-b216-a295561fd1ce",
+  "name": "이자식",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "너무행 ;(",
+            "반사 :p"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

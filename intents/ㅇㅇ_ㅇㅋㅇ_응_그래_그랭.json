@@ -1,0 +1,81 @@
+{
+  "userSays": [
+    {
+      "id": "79322f52-78c7-48b4-a182-e0df990a048c",
+      "data": [
+        {
+          "text": "그랭"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd7d947f-8132-4421-97d6-f8b9b75ba88d",
+      "data": [
+        {
+          "text": "그래"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c7bb6b62-96b1-4703-b2c2-424dbc583f6e",
+      "data": [
+        {
+          "text": "응"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "980b1c25-7389-4359-862c-2d22c54e40ae",
+      "data": [
+        {
+          "text": "ㅇㅇ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4864c112-a4c3-491b-96e0-96734450ff38",
+      "data": [
+        {
+          "text": "ㅇㅋㅇ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "d1e9326c-55bf-4764-819a-07c105241c71",
+  "name": "ㅇㅇ/ㅇㅋㅇ/응/그래/그랭",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "ㅇㅇ",
+            "네 ㅡㅡ;;",
+            "응응!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

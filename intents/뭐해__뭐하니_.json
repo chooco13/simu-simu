@@ -1,0 +1,51 @@
+{
+  "userSays": [
+    {
+      "id": "4b25f4bb-6a12-4aba-9059-2d7fc2a22bac",
+      "data": [
+        {
+          "text": "뭐하니?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fc6aa1d-316a-458d-8c5b-575e2b469c5c",
+      "data": [
+        {
+          "text": "뭐해?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3606a53f-574b-4e9e-81d0-9e3f311033c3",
+  "name": "뭐해?/뭐하니?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "당신 생각이요",
+            "후웅 봇도 프라이버시가 있다고요!",
+            "후후 비밀인뎅"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

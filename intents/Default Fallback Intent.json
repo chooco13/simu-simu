@@ -1,0 +1,32 @@
+{
+  "userSays": [],
+  "id": "2c821cd2-fd94-4e8d-81a7-26a6b8036faa",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "아직 모르는 단어에요 ㅠㅠ ;(",
+            "무슨뜻인지 모르겠어요... 공부할게요 ㅠㅠ...",
+            "흐앙 너무 어려워... 무슨뜻이죠?",
+            "아직 모르는 뜻이에요! 말을 많이 걸어주세요!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,67 @@
+{
+  "userSays": [
+    {
+      "id": "26ccf74e-44f3-4571-80b7-5cfb80cbb7d7",
+      "data": [
+        {
+          "text": "무지개 "
+        },
+        {
+          "text": "반",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "사",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a9669214-579f-4663-a8ae-77e3e33676bc",
+      "data": [
+        {
+          "text": "반",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "사",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5ddeddee-b933-4402-9a5b-55459b5346c4",
+  "name": "반사/무지개 반사",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "나도 반사!!",
+            "치사해..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
